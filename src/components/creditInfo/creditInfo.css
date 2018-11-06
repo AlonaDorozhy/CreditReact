@@ -1,0 +1,45 @@
+.AllCreditInfo{
+   display: block;
+   margin-left: 50px;
+   background-color: bisque;
+}
+.ExchangeRates{
+font-size: 24px;
+color: rgb(173, 157, 189);
+float: left;
+}
+.ExchangeRates th{
+    color: rgb(105, 99, 110);
+    padding-right: 25px;
+}
+
+.form-group input {
+    width: 200px;
+    height: 30px;
+     font-size: 24px;
+    
+}
+.form-group{
+    font-size: 24px;
+    color: rgb(134, 124, 145);
+    font-weight: 400;
+    margin: 10px 0px 0px 25px;
+    
+}
+.submit{
+    background-color: rgb(173, 157, 189);
+    border-radius: 5px;
+     width: 150px;
+     height: 30px;
+     font-size: 24px;
+     color: azure;
+     margin: 25px;
+}
+
+.backscroll{
+    float: left;
+    background-color: rgb(173, 157, 189);
+    border-radius: 5px;
+    color: azure;
+    margin: 25px;
+}

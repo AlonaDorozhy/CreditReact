@@ -13,6 +13,7 @@ class Registration extends Component {
                     <input type = "button" value = "Login" id = "login" className = "btn-login"/> 
               </div>
                <p className = "showFalse" > </p>
+               <hr/>
            </div>
                
            
