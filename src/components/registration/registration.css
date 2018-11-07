@@ -4,5 +4,8 @@
 }
 h2{
     color: rgb(128, 116, 238);
-};
+}
  
+.container{
+    margin-left: 25px;
+}
